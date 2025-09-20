@@ -1,0 +1,13 @@
+.card {
+   margin: 50px;
+    box-shadow: 1px 1px 3px rgb(0, 0, 0);
+    height: 200px;
+    width: 380px;
+    border-radius: 10px;
+}
+span {
+    text-decoration: underline;
+}
+.info {
+    padding: 10px;
+}
